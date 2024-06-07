@@ -1,0 +1,14 @@
+
+.card{
+    border: black solid ;
+    width: 30%;
+}
+.image{
+
+    width:100px;
+    height: 100px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
